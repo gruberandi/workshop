@@ -11,6 +11,12 @@
 function main(language) {
   console.log('language:', language)
   // The language variable will be the language from the command line. 
+  if(language === "hungarian") {
+    console.log("cicc-cicc")
+  }
+  else {
+    console.log("miao-miao")
+  }
 
 }
 
