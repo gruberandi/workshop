@@ -15,6 +15,6 @@ function main() {
      console.log(`${i+1} . ${pets[i]}`)
     }
 }
-
+//:)t 
 main(pets)
 
