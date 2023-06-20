@@ -17,7 +17,7 @@ function main(keyword) {
         if(catNames[i].includes(keyword))
         console.log(catNames[i])
     }
-}
+}///
 
 main(process.argv[2])
 
